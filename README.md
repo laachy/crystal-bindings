@@ -1,0 +1,1 @@
+Crystal Bindings is designed for generating bindings for anything in a modular fashion. This project is specifically designed for crystal palace linker for cross language bindings but with a few modifications can be used for anything.
