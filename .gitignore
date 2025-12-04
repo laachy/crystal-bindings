@@ -1,0 +1,12 @@
+*
+!*/
+
+!.gitignore
+
+!*.h
+!*.rs
+
+!*.toml
+!*.md
+
+**/target/
